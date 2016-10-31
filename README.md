@@ -1,5 +1,4 @@
 # Reddit-scaping-in-R
-# Reddit scraping In R</br>
 This is a very covenient code to scrape reddit comments
 
 ## Index
@@ -23,14 +22,16 @@ Requirement 2:Decide what is the minimum length you want to assume before you sc
 lets call it threshold_for_comment
 
 
-## Language-used
+## Language Used
 R
 
-## How-to-use
+## How to use?
 How to use this?
 All you need to do is modify the code at two places:
 Locate following lines and just plugin the desired values i.e. Subreddits and value for threshold_for_comment
-<code>subreddits<-c("television","todayilearned","news","worldnews","movies","videos","sports","pics","AskReddit","music")</br>
+<code>subreddits<-c("television","todayilearned","news","worldnews","movies","videos","sports","pics","AskReddit","music") </code>
+</br>
+<code>
 threshold_for_comment<-100
 </code>
 
