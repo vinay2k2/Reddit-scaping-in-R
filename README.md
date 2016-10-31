@@ -1,4 +1,4 @@
-# Reuasable Reddit-scaping-in-R
+# Re-Usable Reddit-scaping-in-R
 This is a very covenient code to scrape reddit comments
 
 ## Index
