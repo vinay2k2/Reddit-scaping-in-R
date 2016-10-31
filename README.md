@@ -1,11 +1,11 @@
-# Reddit-scaping-in-R
+# Reuasable Reddit-scaping-in-R
 This is a very covenient code to scrape reddit comments
 
 ## Index
 - [What it is ?](#what_it_is?) 
 - [What you require?](#What-you-require?)
 - [Language used](#Language-used)
-- [How to use?](#How-to-use)
+- [How to Re-use?](#How-to-use)
 - [Contributors](#contributors)
 - [Contact](#contact)
 
@@ -25,7 +25,7 @@ lets call it threshold_for_comment
 ## Language Used
 R
 
-## How to use?
+## How to Re-use?
 How to use this?
 All you need to do is modify the code at two places:
 Locate following lines and just plugin the desired values i.e. Subreddits and value for threshold_for_comment
